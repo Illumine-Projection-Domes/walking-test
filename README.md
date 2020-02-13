@@ -1,2 +1,2 @@
 # walking-test
-FPS controller with a walk around domemaster view
+Unity 3D FPS controller with a walk around domemaster view
